@@ -19,7 +19,7 @@ const Projects = () => {
 
             <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 max-w-[800px] mx-auto">
               {/* Raha Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   {/* Placeholder for project image */}
                   <div className="relative w-full h-full bg-gradient-to-br from-blue-100 to-purple-100 flex items-center justify-center">
@@ -77,7 +77,7 @@ const Projects = () => {
               </div>
 
               {/* Nafsia Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   <div className="relative w-full h-full bg-gradient-to-br from-yellow-100 to-orange-100 flex items-center justify-center">
                     {/* <span className="text-muted-foreground">Nafsia</span> */}
@@ -127,7 +127,7 @@ const Projects = () => {
               </div>
 
               {/* Igatah Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   <div className="relative w-full h-full bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center">
                     {/* <span className="text-muted-foreground">Igatha</span> */}
@@ -180,7 +180,7 @@ const Projects = () => {
               </div>
 
               {/* Titans Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   <div className="relative w-full h-full bg-gradient-to-br from-green-100 to-blue-100 flex items-center justify-center">
                         <Image
@@ -229,7 +229,7 @@ const Projects = () => {
               </div>
 
               {/* AttendEase Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   <div className="relative w-full h-full bg-gradient-to-br from-indigo-100 to-cyan-100 flex items-center justify-center">
                     {/* <span className="text-muted-foreground">AttendEase</span> */}
@@ -278,7 +278,7 @@ const Projects = () => {
               </div>
 
               {/* Natiga Project */}
-              <div className="rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
+              <div className="bg-[var(--background)] border-none rounded-xl text-card-foreground shadow flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full bg-card">
                 <div className="h-40 w-full overflow-hidden object-cover object-top bg-muted">
                   <div className="relative w-full h-full bg-gradient-to-br from-indigo-100 to-cyan-100 flex items-center justify-center">
                     {/* <span className="text-muted-foreground">AttendEase</span> */}
