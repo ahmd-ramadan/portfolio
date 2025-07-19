@@ -1,7 +1,7 @@
 "use client";
 
 import { useTheme } from "@/contexts/ThemeContext";
-import { Book, Github, Home, LucideGithub, Moon, Sun } from "lucide-react";
+import { Home, LucideGithub, Moon, Sun } from "lucide-react";
 import Link from "next/link";
 
 const Dashboard = () => {

@@ -2,13 +2,10 @@ import About from "@/components/About";
 import Contact from "@/components/Contact";
 import Cources from "@/components/Cources";
 import Education from "@/components/Education";
-import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
-import WorkExperience from "@/components/WorkExperience";
 import Achievements from "@/components/Achievements";
-import Image from "next/image";
 import Dashboard from "@/components/Dashboard";
 
 export default function Home() {
