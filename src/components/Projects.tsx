@@ -62,7 +62,7 @@ const Projects = () => {
                 </div>
                 <div className="flex items-center p-6 pt-0 px-2 pb-2">
                   <div className="flex flex-row flex-wrap items-start gap-1">
-                    <Link target="_blank" href="https://raha-furn.com/" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
+                    <Link target="_blank" href="https://raha-furniture.com/" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
                       🌐 Website
                     </Link>
                     <Link target="_blank" href="https://www.linkedin.com/posts/ahmd-ramadan_excited-to-share-my-latest-project-activity-7306032621791141889-Z37P" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
@@ -168,12 +168,6 @@ const Projects = () => {
                       target="_blank" href="https://hajj-omrah-ui.vercel.app" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
                       🌐 Website
                     </Link>
-                    {/* <Link target="_blank" href="https://raha-furn.com/" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
-                      📋 Post
-                    </Link> */}
-                    {/* <Link target="_blank" href="https://github.com/ahmd-ramadan/Nafsia" className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-primary text-primary-foreground shadow hover:bg-primary/80 flex gap-2 px-2 py-1 text-[10px]">
-                      📁 Source
-                    </Link> */}
                   </div>
                 </div>
               </div>
