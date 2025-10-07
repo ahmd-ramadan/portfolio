@@ -1,8 +1,9 @@
 "use client";
 
 import { useTheme } from "@/contexts/ThemeContext";
-import { Home, LucideGithub, Moon, Sun } from "lucide-react";
+import { Home, Moon, Sun } from "lucide-react";
 import Link from "next/link";
+import GithubIcon from "./icons/Github";
 
 const Dashboard = () => {
     const { theme, toggleTheme, mounted } = useTheme();
@@ -59,7 +60,7 @@ const Dashboard = () => {
                             className="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:text-accent-foreground rounded-full size-12 transition-colors duration-200 hover:bg-accent" aria-label="Visit GitHub" data-state="closed" 
                             href="https://github.com/ahmd-ramadan"
                         >
-                            <LucideGithub size={16}/>
+                            <GithubIcon width={16} height={16}/>
                         </Link>
                     </div>
                 </div>

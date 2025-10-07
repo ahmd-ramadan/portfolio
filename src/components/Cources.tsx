@@ -8,7 +8,7 @@ import { useState } from "react";
 
 const Cources = () => {
 
-    const [isCollapsed, setIsCollapsed] = useState(true);
+    const [isCollapsed, setIsCollapsed] = useState(false);
 
     return (
         <section id="cources">

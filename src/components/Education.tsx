@@ -7,7 +7,7 @@ import Collapsed from "./Collapsed";
 
 const Education = () => {
 
-    const [isCollapsed, setIsCollapsed] = useState(true);
+    const [isCollapsed, setIsCollapsed] = useState(false);
 
     return (
         <section id="education">

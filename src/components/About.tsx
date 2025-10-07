@@ -4,7 +4,7 @@ import { useState } from "react";
 import Collapsed from "./Collapsed";
 
 const About = () => {
-  const [isCollapsed, setIsCollapsed] = useState(true);
+  const [isCollapsed, setIsCollapsed] = useState(false);
 
   return (
     <section id="about">

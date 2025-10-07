@@ -7,7 +7,7 @@ import Collapsed from "./Collapsed";
 
 const Achievements = () => {
 
-  const [isCollapsed, setIsCollapsed] = useState(true);
+  const [isCollapsed, setIsCollapsed] = useState(false);
   
   return (
     <section id="achievements" className="my-8">
