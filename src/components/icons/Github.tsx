@@ -6,7 +6,7 @@ interface IGithubIconProps {
 
 const GithubIcon = ({ width, height }: IGithubIconProps) => {
     return (
-        <svg width={width} height={height} viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+        <svg width={width} height={height} viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
 
         <g id="SVGRepo_bgCarrier" strokeWidth="0"/>
         
